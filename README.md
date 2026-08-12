@@ -164,18 +164,6 @@ Client runs on `http://localhost:5173`.
 ### 3. Access the application
 Open `http://localhost:5173` in your browser.
 
-### Default Demo Credentials
-
-| Role     | Email              | Password  |
-|----------|---------------------|-----------|
-| Admin    | `admin@nexus.io`    | `admin123`|
-| Employee | `alice@nexus.io`    | `pass123` |
-| Employee | `bob@nexus.io`      | `pass123` |
-
-⚠️ These are seeded in the database. If you don't see them, register a new account.
-
----
-
 ## 🔄 Core Workflows
 
 | Actor   | Action              | Description                                                        |
@@ -197,8 +185,6 @@ Open `http://localhost:5173` in your browser.
 ---
 
 ## 📸 Screenshots
-
-*(Add actual screenshots of your application here)*
 
 - **Login Page**
   ![Login Page](./screenshots/login.png)
