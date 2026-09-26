@@ -1,0 +1,1334 @@
+[
+  {
+    "name": "Wireless Headphones Pro",
+    "category": "Electronics",
+    "brand": "Samsung",
+    "price": 669.97,
+    "stock": 62,
+    "description": "High-quality wireless headphones pro from Samsung, designed for everyday reliability.",
+    "tags": [
+      "premium"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&q=80"
+  },
+  {
+    "name": "Classic Polo Shirt",
+    "category": "Apparel",
+    "brand": "Gap",
+    "price": 38.28,
+    "stock": 23,
+    "description": "High-quality classic polo shirt from Gap, designed for everyday reliability.",
+    "tags": [
+      "new-arrival"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1596755094514-04664a7c0678?w=600&q=80"
+  },
+  {
+    "name": "Cordless Vacuum Cleaner",
+    "category": "Home & Kitchen",
+    "brand": "Ninja",
+    "price": 647.25,
+    "stock": 179,
+    "description": "Customer-favorite cordless vacuum cleaner built with premium materials by Ninja.",
+    "tags": [
+      "top-rated",
+      "new-arrival"
+    ],
+    "featured": false,
+    "image": "https://m.media-amazon.com/images/I/81Ca1GS8aGL.jpg"
+  },
+  {
+    "name": "Electric Hair Straightener",
+    "category": "Beauty & Personal Care",
+    "brand": "L'Oreal",
+    "price": 631.33,
+    "stock": 87,
+    "description": "Customer-favorite electric hair straightener built with premium materials by L'Oreal.",
+    "tags": [
+      "premium"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1558002038-109177381792?w=600&q=80"
+  },
+  {
+    "name": "Fitness Tracker Band",
+    "category": "Health & Wellness",
+    "brand": "Fitbit",
+    "price": 348.13,
+    "stock": 91,
+    "description": "High-quality fitness tracker band from Fitbit, designed for everyday reliability.",
+    "tags": [
+      "value-pick"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?w=600&q=80"
+  },
+  {
+    "name": "Pasta Penne 500g",
+    "category": "Groceries & Food",
+    "brand": "Britannia",
+    "price": 121.09,
+    "stock": 96,
+    "description": "Customer-favorite pasta penne 500g built with premium materials by Britannia.",
+    "tags": [
+      "clearance"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1551326844-4fd41d916538?w=600&q=80"
+  },
+  {
+    "name": "Colored Pencils Set 24pc",
+    "category": "Books, Media & Stationery",
+    "brand": "Classmate",
+    "price": 637.06,
+    "stock": 11,
+    "description": "Classmate's colored pencils set 24pc offers great performance and lasting durability.",
+    "tags": [
+      "new-arrival",
+      "limited-stock"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=600&q=80"
+  },
+  {
+    "name": "Baby Stroller Foldable",
+    "category": "Toys, Kids & Baby Products",
+    "brand": "Fisher-Price",
+    "price": 257.39,
+    "stock": 162,
+    "description": "Fisher-Price's baby stroller foldable offers great performance and lasting durability.",
+    "tags": [
+      "premium"
+    ],
+    "featured": false,
+    "image": "https://m.media-amazon.com/images/I/71Y+R6N+-fL._SX522_.jpg"
+  },
+  {
+    "name": "Golf Club Iron Set",
+    "category": "Sports & Outdoors",
+    "brand": "Spalding",
+    "price": 843.61,
+    "stock": 165,
+    "description": "Spalding's golf club iron set offers great performance and lasting durability.",
+    "tags": [
+      "value-pick"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1535136113945-86640c4961d1?w=600&q=80"
+  },
+  {
+    "name": "Car Wash Shampoo 1L",
+    "category": "Automotive & Industrial",
+    "brand": "Michelin",
+    "price": 347.71,
+    "stock": 163,
+    "description": "High-quality car wash shampoo 1l from Michelin, designed for everyday reliability.",
+    "tags": [
+      "clearance",
+      "new-arrival"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1601362840469-51e4d8d58785?w=600&q=80"
+  },
+  {
+    "name": "Wireless Headphones Pro",
+    "category": "Electronics",
+    "brand": "LG",
+    "price": 726.48,
+    "stock": 102,
+    "description": "Customer-favorite wireless headphones pro built with premium materials by LG.",
+    "tags": [
+      "trending"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=600&q=80"
+  },
+  {
+    "name": "Formal Dress Shirt",
+    "category": "Apparel",
+    "brand": "Levi's",
+    "price": 454.31,
+    "stock": 164,
+    "description": "Levi's's formal dress shirt offers great performance and lasting durability.",
+    "tags": [
+      "premium"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=600&q=80"
+  },
+  {
+    "name": "LED Table Lamp",
+    "category": "Home & Kitchen",
+    "brand": "Ninja",
+    "price": 243.83,
+    "stock": 149,
+    "description": "Ninja's led table lamp offers great performance and lasting durability.",
+    "tags": [
+      "value-pick"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=600&q=80"
+  },
+  {
+    "name": "SPF 50 Sunscreen",
+    "category": "Beauty & Personal Care",
+    "brand": "Maybelline",
+    "price": 449.22,
+    "stock": 193,
+    "description": "Maybelline's spf 50 sunscreen offers great performance and lasting durability.",
+    "tags": [
+      "trending"
+    ],
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=600&q=80"
+  },
+  {
+    "name": "Essential Oil Diffuser",
+    "category": "Health & Wellness",
+    "brand": "Theragun",
+    "price": 66.53,
+    "stock": 97,
+    "description": "High-quality essential oil diffuser from Theragun, designed for everyday reliability.",
+    "tags": [
+      "editor-pick",
+      "clearance"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1608528577386-09252c41ad6e?w=600&q=80"
+  },
+  {
+    "name": "Breakfast Cereal Combo Pack",
+    "category": "Groceries & Food",
+    "brand": "Kellogg's",
+    "price": 797.45,
+    "stock": 192,
+    "description": "Affordable and reliable breakfast cereal combo pack, a top pick in Groceries & Food.",
+    "tags": [
+      "eco-friendly"
+    ],
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1521406852504-207d5705a109?w=600&q=80"
+  },
+  {
+    "name": "Kids Educational Storybook Set",
+    "category": "Books, Media & Stationery",
+    "brand": "Moleskine",
+    "price": 12.88,
+    "stock": 184,
+    "description": "High-quality kids educational storybook set from Moleskine, designed for everyday reliability.",
+    "tags": [
+      "limited-stock",
+      "clearance"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=600&q=80"
+  },
+  {
+    "name": "Ride-On Toy Car",
+    "category": "Toys, Kids & Baby Products",
+    "brand": "Chicco",
+    "price": 461.81,
+    "stock": 50,
+    "description": "High-quality ride-on toy car from Chicco, designed for everyday reliability.",
+    "tags": [
+      "eco-friendly"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?w=600&q=80"
+  },
+  {
+    "name": "Hiking Backpack 40L",
+    "category": "Sports & Outdoors",
+    "brand": "Columbia",
+    "price": 444.85,
+    "stock": 28,
+    "description": "Columbia's hiking backpack 40l offers great performance and lasting durability.",
+    "tags": [
+      "limited-stock"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600&q=80"
+  },
+  {
+    "name": "Engine Oil Synthetic 5L",
+    "category": "Automotive & Industrial",
+    "brand": "Armor All",
+    "price": 86.22,
+    "stock": 124,
+    "description": "Armor All's engine oil synthetic 5l offers great performance and lasting durability.",
+    "tags": [
+      "clearance"
+    ],
+    "featured": false,
+    "image": "https://m.media-amazon.com/images/I/71k42q-2T3L._AC_SX679_.jpg"
+  },
+  {
+    "name": "Wireless Mouse Ergo",
+    "category": "Electronics",
+    "brand": "HP",
+    "price": 156.95,
+    "stock": 135,
+    "description": "HP's wireless mouse ergo offers great performance and lasting durability.",
+    "tags": [
+      "top-rated",
+      "new-arrival"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=600&q=80"
+  },
+  {
+    "name": "Classic Polo Shirt",
+    "category": "Apparel",
+    "brand": "Zara",
+    "price": 895.67,
+    "stock": 166,
+    "description": "Affordable and reliable classic polo shirt, a top pick in Apparel.",
+    "tags": [
+      "editor-pick"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=600&q=80"
+  },
+  {
+    "name": "Cordless Vacuum Cleaner",
+    "category": "Home & Kitchen",
+    "brand": "KitchenAid",
+    "price": 209.97,
+    "stock": 86,
+    "description": "KitchenAid's cordless vacuum cleaner offers great performance and lasting durability.",
+    "tags": [
+      "value-pick"
+    ],
+    "featured": false,
+    "image": "https://m.media-amazon.com/images/I/61L+O5B9UPL._AC_SX679_.jpg"
+  },
+  {
+    "name": "Vitamin C Face Cream",
+    "category": "Beauty & Personal Care",
+    "brand": "L'Oreal",
+    "price": 639.97,
+    "stock": 15,
+    "description": "Customer-favorite vitamin c face cream built with premium materials by L'Oreal.",
+    "tags": [
+      "trending"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1615397323282-511bb746a512?w=600&q=80"
+  },
+  {
+    "name": "Digital Kitchen Weighing Scale",
+    "category": "Health & Wellness",
+    "brand": "Fitbit",
+    "price": 221.81,
+    "stock": 171,
+    "description": "Affordable and reliable digital kitchen weighing scale, a top pick in Health & Wellness.",
+    "tags": [
+      "new-arrival"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1589255673418-2e3427fcdb6b?w=600&q=80"
+  },
+  {
+    "name": "Peanut Butter Crunchy 1kg",
+    "category": "Groceries & Food",
+    "brand": "Cadbury",
+    "price": 728.66,
+    "stock": 48,
+    "description": "Customer-favorite peanut butter crunchy 1kg built with premium materials by Cadbury.",
+    "tags": [
+      "trending"
+    ],
+    "featured": false,
+    "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSUPLFRhM4Ld4dU7zjZjSYlA-DCxOSR27sQRyFreJvyIt4LC0MWS6SDs2sIwZ3pDljfetdjBjZlz5TrKRs"
+  },
+  {
+    "name": "Ballpoint Pen Pack of 10",
+    "category": "Books, Media & Stationery",
+    "brand": "Staedtler",
+    "price": 425.64,
+    "stock": 186,
+    "description": "Customer-favorite ballpoint pen pack of 10 built with premium materials by Staedtler.",
+    "tags": [
+      "trending"
+    ],
+    "featured": true,
+    "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcTsEqjwoEI-VqRVJhYMt3CXDD-kyra4Fe8ldw7sqJT2uF8Eguo4OKo4-7-_0iupFMnDIGzfJogITBEbNnc"
+  },
+  {
+    "name": "Baby Diaper Pack Size 3",
+    "category": "Toys, Kids & Baby Products",
+    "brand": "Fisher-Price",
+    "price": 180.51,
+    "stock": 137,
+    "description": "Customer-favorite baby diaper pack size 3 built with premium materials by Fisher-Price.",
+    "tags": [
+      "premium"
+    ],
+    "featured": false,
+    "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcQOHE2s9galGkQpQHLRUVspop7MkdXm_OnvGeDLWb1RvWJEVAK3JtsGNTPAlCoRuVyvqZnNEH66x4Jh-_Q"
+  },
+  {
+    "name": "Yoga Fitness Ball",
+    "category": "Sports & Outdoors",
+    "brand": "Speedo",
+    "price": 788.28,
+    "stock": 19,
+    "description": "High-quality yoga fitness ball from Speedo, designed for everyday reliability.",
+    "tags": [
+      "clearance"
+    ],
+    "featured": true,
+    "image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcQ-R5KMmoqmNQaqLxBG4Ino4gSbvHjMjOXA-iVB1YmzKN_gmEjuDCQcggww--Rb4GUH80gShvFK6pLn03g"
+  },
+  {
+    "name": "Car Phone Mount Holder",
+    "category": "Automotive & Industrial",
+    "brand": "3M",
+    "price": 158.01,
+    "stock": 124,
+    "description": "High-quality car phone mount holder from 3M, designed for everyday reliability.",
+    "tags": [
+      "new-arrival"
+    ],
+    "featured": false,
+    "image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcQVMazl7gejhKiFRh0xCJERdQLdGrVmI1KZIIXq2leaqvr5h8vHGqtUSSTkSHnorV2bnji5hUtLZzelV7E"
+  },
+  {
+    "name": "Portable Power Bank 20000mAh",
+    "category": "Electronics",
+    "brand": "Apple",
+    "price": 11.91,
+    "stock": 99,
+    "description": "Affordable and reliable portable power bank 20000mah, a top pick in Electronics.",
+    "tags": [
+      "editor-pick"
+    ],
+    "featured": false,
+    "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRpP1eDkkONmD9O5LEnVm961Z7qcvarupF-_kqdB4KzRtDLw_2gb6xwB9b1QrinUciS1sZhQsBHelMWm6c"
+  },
+  {
+    "name": "Hooded Sweatshirt",
+    "category": "Apparel",
+    "brand": "Puma",
+    "price": 274.06,
+    "stock": 14,
+    "description": "High-quality hooded sweatshirt from Puma, designed for everyday reliability.",
+    "tags": [
+      "clearance",
+      "best-seller"
+    ],
+    "featured": false,
+    "image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcTtEXbdPEJo8yGPmpWixSZLWjHJLGXkk9EkFl9_r6jGuhUCUtJT5aIG3_eq5SNxnL2fDvUq_nhBhlsIanQ"
+  },
+  {
+    "name": "Storage Ottoman Bench",
+    "category": "Home & Kitchen",
+    "brand": "IKEA",
+    "price": 434.33,
+    "stock": 135,
+    "description": "High-quality storage ottoman bench from IKEA, designed for everyday reliability.",
+    "tags": [
+      "best-seller"
+    ],
+    "featured": false,
+    "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSCVTGQl-dOWDCErUVHR5Wz2LmWWV4tKDVpt5K4OeB1MDwkzDr7glUxYMYLGaOFYytvx4Rcc_fAoaE4_ng"
+  },
+  {
+    "name": "Vitamin C Face Cream",
+    "category": "Beauty & Personal Care",
+    "brand": "Maybelline",
+    "price": 539.57,
+    "stock": 172,
+    "description": "Maybelline's vitamin c face cream offers great performance and lasting durability.",
+    "tags": [
+      "top-rated"
+    ],
+    "featured": true,
+    "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcSgN6elWRitrgD428l9Cy8QaM1gQu78e23YaV6IBmtwBTirrwLdjeOcCcYB3cRQ1eLRo4xzcb87stveaV4"
+  },
+  {
+    "name": "Essential Oil Diffuser",
+    "category": "Health & Wellness",
+    "brand": "Vicks",
+    "price": 45.36,
+    "stock": 20,
+    "description": "Customer-favorite essential oil diffuser built with premium materials by Vicks.",
+    "tags": [
+      "value-pick"
+    ],
+    "featured": false,
+    "image": "https://www.vickshumidifiers.com/wp-content/uploads/Infogs_Vicks_Lavender_1_B.png"
+  },
+  {
+    "name": "Dark Chocolate Bar Pack",
+    "category": "Groceries & Food",
+    "brand": "Lays",
+    "price": 606.05,
+    "stock": 80,
+    "description": "Customer-favorite dark chocolate bar pack built with premium materials by Lays.",
+    "tags": [
+      "limited-stock"
+    ],
+    "featured": false,
+    "image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcRS5pDYYEmuUN_Mu7Ja5FAjDHZerH8B920h-r1OcyK5k_fv3ksssXoWiAn2TBNzzSISMbWPOmgahZd6YXc"
+  },
+  {
+    "name": "Sketchbook Spiral Bound",
+    "category": "Books, Media & Stationery",
+    "brand": "Camlin",
+    "price": 836.82,
+    "stock": 18,
+    "description": "High-quality sketchbook spiral bound from Camlin, designed for everyday reliability.",
+    "tags": [
+      "editor-pick"
+    ],
+    "featured": false,
+    "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcS7bmScfY4cJy-HFx4idH9kANe-D9go4WLHpYzlJy9u59DVvGk3wFuf3Aqu_GKLJfB6E3PXwCkudLdwVV8"
+  },
+  {
+    "name": "Board Game Family Pack",
+    "category": "Toys, Kids & Baby Products",
+    "brand": "Fisher-Price",
+    "price": 199.7,
+    "stock": 67,
+    "description": "Fisher-Price's board game family pack offers great performance and lasting durability.",
+    "tags": [
+      "eco-friendly"
+    ],
+    "featured": false,
+    "image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcT388FOvPEo_VovVP7vAodZMr8U_OgZzzmc03Iv7mwEe394YncMXc-xJckhvBwUsogfFWgqURStpl9ENQk"
+  },
+  {
+    "name": "Insulated Water Bottle 1L",
+    "category": "Sports & Outdoors",
+    "brand": "The North Face",
+    "price": 150.38,
+    "stock": 139,
+    "description": "Customer-favorite insulated water bottle 1l built with premium materials by The North Face.",
+    "tags": [
+      "limited-stock",
+      "clearance"
+    ],
+    "featured": true,
+    "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcQoeO4BDfDO8voz1Exre4OqFrLV2N0LerD-xoOb2m9OGoz4yAOWiu0U1nGjvMR0ZoIrPUFGDTcPiHt63Dw"
+  },
+  {
+    "name": "Tire Pressure Gauge Digital",
+    "category": "Automotive & Industrial",
+    "brand": "3M",
+    "price": 245.36,
+    "stock": 27,
+    "description": "3M's tire pressure gauge digital offers great performance and lasting durability.",
+    "tags": [
+      "clearance",
+      "premium"
+    ],
+    "featured": false,
+    "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcTiTTsQa7SXENoYd8R1MV96Z6vc74DrTIWIti3sj6D3_4H8znwr-AaDDNJzVEJ1A3unh6a_nEy3bi2SyEA"
+  },
+  {
+    "name": "Laptop UltraBook 14",
+    "category": "Electronics",
+    "brand": "JBL",
+    "price": 621.86,
+    "stock": 67,
+    "description": "High-quality laptop ultrabook 14 from JBL, designed for everyday reliability.",
+    "tags": [
+      "editor-pick",
+      "limited-stock"
+    ],
+    "featured": false,
+    "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcTxvL6YhQa_YO2o7xPSdWVGPR5QgdTpO9Z8myyA8YM_jOZSr5YbEYRifDu_o4P7tMWSfxq9nyn_Cu9CraY"
+  },
+  {
+    "name": "Formal Dress Shirt",
+    "category": "Apparel",
+    "brand": "Adidas",
+    "price": 386.97,
+    "stock": 70,
+    "description": "Adidas's formal dress shirt offers great performance and lasting durability.",
+    "tags": [
+      "best-seller"
+    ],
+    "featured": false,
+    "image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcQOpwf5TvgvioTeMV3T3_or4VRl-2jbVF_r_ybWFpBpg49dYCVem9y6znvlL0UhlmUd3ttdxFGyG5vLnQk"
+  },
+  {
+    "name": "Stainless Steel Blender",
+    "category": "Home & Kitchen",
+    "brand": "Dyson",
+    "price": 669.69,
+    "stock": 141,
+    "description": "High-quality stainless steel blender from Dyson, designed for everyday reliability.",
+    "tags": [
+      "top-rated",
+      "clearance"
+    ],
+    "featured": true,
+    "image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcRoIaJ08nkTuTN7AdKGfAVyKsttWF0XVFhO9l7a2th7bEDulaIkqwieAW-lbgnEueXisatmSO5RnDnbQfM"
+  },
+  {
+    "name": "SPF 50 Sunscreen V2",
+    "category": "Beauty & Personal Care",
+    "brand": "Maybelline",
+    "price": 752.78,
+    "stock": 149,
+    "description": "Customer-favorite spf 50 sunscreen v2 built with premium materials by Maybelline.",
+    "tags": [
+      "premium",
+      "top-rated"
+    ],
+    "featured": true,
+    "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQYfxUvn2LMUhuH6_CFa07V8O77VcUsSH7WxlVEPLpwPBsqU03l9si2uR_45AgYj3jYth_Jnm6u7OO4D9w"
+  },
+  {
+    "name": "Whey Protein Powder 2kg",
+    "category": "Health & Wellness",
+    "brand": "GNC",
+    "price": 810.03,
+    "stock": 53,
+    "description": "Affordable and reliable whey protein powder 2kg, a top pick in Health & Wellness.",
+    "tags": [
+      "new-arrival",
+      "trending"
+    ],
+    "featured": false,
+    "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcS-Ko9UUVA4CImCN-KnO6k33Idj6FAzG335Ee_YBYU7oaxhDSIWqqxzVKc4trxub3FxDi-tT-Cd2LkJnhs"
+  },
+  {
+    "name": "Cold Pressed Coconut Oil 1L",
+    "category": "Groceries & Food",
+    "brand": "Del Monte",
+    "price": 147.54,
+    "stock": 60,
+    "description": "High-quality cold pressed coconut oil 1l from Del Monte, designed for everyday reliability.",
+    "tags": [
+      "premium"
+    ],
+    "featured": false,
+    "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQvZccJ-4CYAUwLUtQRatk5c0KZjVjWkQ0CVG1XCLa0CymBOGsJrXv7pHaaVwvLiKlzcuJqmzACFOUDQgg"
+  },
+  {
+    "name": "Sticky Notes Combo Pack",
+    "category": "Books, Media & Stationery",
+    "brand": "Moleskine",
+    "price": 832.78,
+    "stock": 200,
+    "description": "High-quality sticky notes combo pack from Moleskine, designed for everyday reliability.",
+    "tags": [
+      "new-arrival"
+    ],
+    "featured": false,
+    "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcQBVq5iTFac8ustjdZb3Jvsx7QouYoDYTk1WXUQ6t8FqAHKzR5PiQ35iVRYsLLqYeSLhrPS9DG3S35UtwQ"
+  },
+  {
+    "name": "Building Blocks Set 500pc",
+    "category": "Toys, Kids & Baby Products",
+    "brand": "Hasbro",
+    "price": 774.14,
+    "stock": 56,
+    "description": "Hasbro's building blocks set 500pc offers great performance and lasting durability.",
+    "tags": [
+      "editor-pick"
+    ],
+    "featured": false,
+    "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSqQPeEazd45ODuCs2iJ-vN4FoOP6POkGlpnVaiekGyAey2p9RnUrqJpLCSQ78wTlIUitSTwORXjhJYqaM"
+  },
+  {
+    "name": "Basketball Official Size",
+    "category": "Sports & Outdoors",
+    "brand": "Yonex",
+    "price": 597.42,
+    "stock": 102,
+    "description": "Customer-favorite basketball official size built with premium materials by Yonex.",
+    "tags": [
+      "limited-stock"
+    ],
+    "featured": false,
+    "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcTnNGs3ln6VYGQuoLJ3J9xAIZZ6VaEmMWsopi06ufOi-6BKIsTAvyUKGBX4DplfMofdcBZ0PgxUmIV0iFk"
+  },
+  {
+    "name": "Tool Set 100pc",
+    "category": "Automotive & Industrial",
+    "brand": "STP",
+    "price": 463.36,
+    "stock": 173,
+    "description": "Customer-favorite tool set 100pc built with premium materials by STP.",
+    "tags": [
+      "eco-friendly",
+      "best-seller"
+    ],
+    "featured": true,
+    "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcQ0AVOhDER9skRszfVug81S2hq656Ux3ldJ1xj3Cp7Bz2AkstOtKJll2l0ywUSiKaas7lXgIy7UkeR3Vkg"
+  },
+  {
+    "name": "USB-C Hub 7-in-1",
+    "category": "Electronics",
+    "brand": "Apple",
+    "price": 866.65,
+    "stock": 67,
+    "description": "Customer-favorite usb-c hub 7-in-1 built with premium materials by Apple.",
+    "tags": [
+      "trending"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1618218151978-8d070b4f8c47?w=600&q=80"
+  },
+  {
+    "name": "Classic Polo Shirt",
+    "category": "Apparel",
+    "brand": "H&M",
+    "price": 549.52,
+    "stock": 130,
+    "description": "H&M's classic polo shirt offers great performance and lasting durability.",
+    "tags": [
+      "top-rated"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=600&q=80"
+  },
+  {
+    "name": "Non-Stick Cookware Set",
+    "category": "Home & Kitchen",
+    "brand": "Dyson",
+    "price": 640.81,
+    "stock": 0,
+    "description": "High-quality non-stick cookware set from Dyson, designed for everyday reliability.",
+    "tags": [
+      "clearance",
+      "new-arrival"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1584286595398-a59f21d313f5?w=600&q=80"
+  },
+  {
+    "name": "Perfume Eau de Parfum 100ml",
+    "category": "Beauty & Personal Care",
+    "brand": "Neutrogena",
+    "price": 289.37,
+    "stock": 31,
+    "description": "Affordable and reliable perfume eau de parfum 100ml, a top pick in Beauty & Personal Care.",
+    "tags": [
+      "limited-stock",
+      "clearance"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1595535373192-9092eb321e85?w=600&q=80"
+  },
+  {
+    "name": "Adjustable Dumbbell Set",
+    "category": "Health & Wellness",
+    "brand": "GNC",
+    "price": 630.51,
+    "stock": 141,
+    "description": "Affordable and reliable adjustable dumbbell set, a top pick in Health & Wellness.",
+    "tags": [
+      "new-arrival"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&q=80"
+  },
+  {
+    "name": "Honey Pure Natural 500g",
+    "category": "Groceries & Food",
+    "brand": "Tata",
+    "price": 516.49,
+    "stock": 103,
+    "description": "Affordable and reliable honey pure natural 500g, a top pick in Groceries & Food.",
+    "tags": [
+      "best-seller",
+      "limited-stock"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1587049352847-4d436a56b6be?w=600&q=80"
+  },
+  {
+    "name": "Highlighter Marker Set",
+    "category": "Books, Media & Stationery",
+    "brand": "Classmate",
+    "price": 592.68,
+    "stock": 119,
+    "description": "Affordable and reliable highlighter marker set, a top pick in Books, Media & Stationery.",
+    "tags": [
+      "editor-pick"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1589330694653-def6bf2f5b5b?w=600&q=80"
+  },
+  {
+    "name": "Ride-On Toy Car",
+    "category": "Toys, Kids & Baby Products",
+    "brand": "Hot Wheels",
+    "price": 85.46,
+    "stock": 131,
+    "description": "Hot Wheels's ride-on toy car offers great performance and lasting durability.",
+    "tags": [
+      "value-pick",
+      "eco-friendly"
+    ],
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?w=600&q=80"
+  },
+  {
+    "name": "Yoga Fitness Ball",
+    "category": "Sports & Outdoors",
+    "brand": "Spalding",
+    "price": 727.83,
+    "stock": 37,
+    "description": "Affordable and reliable yoga fitness ball, a top pick in Sports & Outdoors.",
+    "tags": [
+      "best-seller"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=600&q=80"
+  },
+  {
+    "name": "Engine Oil Synthetic 5L Elite",
+    "category": "Automotive & Industrial",
+    "brand": "Armor All",
+    "price": 378.84,
+    "stock": 161,
+    "description": "Armor All's engine oil synthetic 5l elite offers great performance and lasting durability.",
+    "tags": [
+      "new-arrival",
+      "top-rated"
+    ],
+    "featured": false,
+    "image": "https://m.media-amazon.com/images/I/71k42q-2T3L._AC_SX679_.jpg"
+  },
+  {
+    "name": "Home Theater Soundbar",
+    "category": "Electronics",
+    "brand": "Apple",
+    "price": 621.97,
+    "stock": 192,
+    "description": "Affordable and reliable home theater soundbar, a top pick in Electronics.",
+    "tags": [
+      "top-rated"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1543682704-15adeb008ac4?w=600&q=80"
+  },
+  {
+    "name": "Athletic Training Shorts",
+    "category": "Apparel",
+    "brand": "Nike",
+    "price": 231.78,
+    "stock": 31,
+    "description": "Customer-favorite athletic training shorts built with premium materials by Nike.",
+    "tags": [
+      "premium"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1584865288642-42078afe6942?w=600&q=80"
+  },
+  {
+    "name": "Storage Ottoman Bench",
+    "category": "Home & Kitchen",
+    "brand": "Tefal",
+    "price": 735.35,
+    "stock": 129,
+    "description": "Tefal's storage ottoman bench offers great performance and lasting durability.",
+    "tags": [
+      "clearance"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1592078615290-033ee584e267?w=600&q=80"
+  },
+  {
+    "name": "Facial Cleansing Brush",
+    "category": "Beauty & Personal Care",
+    "brand": "Olay",
+    "price": 240.67,
+    "stock": 63,
+    "description": "Olay's facial cleansing brush offers great performance and lasting durability.",
+    "tags": [
+      "limited-stock",
+      "clearance"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=600&q=80"
+  },
+  {
+    "name": "Resistance Bands Set",
+    "category": "Health & Wellness",
+    "brand": "Omron",
+    "price": 78.95,
+    "stock": 73,
+    "description": "High-quality resistance bands set from Omron, designed for everyday reliability.",
+    "tags": [
+      "limited-stock"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1598266663412-5f6b2164ad0f?w=600&q=80"
+  },
+  {
+    "name": "Mixed Nuts Trail Mix 500g",
+    "category": "Groceries & Food",
+    "brand": "Tata",
+    "price": 215.81,
+    "stock": 177,
+    "description": "Affordable and reliable mixed nuts trail mix 500g, a top pick in Groceries & Food.",
+    "tags": [
+      "new-arrival"
+    ],
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1599598425947-3300262939fb?w=600&q=80"
+  },
+  {
+    "name": "Desk Organizer with Calendar",
+    "category": "Books, Media & Stationery",
+    "brand": "Scholastic",
+    "price": 424.66,
+    "stock": 15,
+    "description": "High-quality desk organizer with calendar from Scholastic, designed for everyday reliability.",
+    "tags": [
+      "top-rated"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1507925922509-fd210cbf11c5?w=600&q=80"
+  },
+  {
+    "name": "Baby Stroller Foldable",
+    "category": "Toys, Kids & Baby Products",
+    "brand": "Melissa & Doug",
+    "price": 434.5,
+    "stock": 90,
+    "description": "Affordable and reliable baby stroller foldable, a top pick in Toys, Kids & Baby Products.",
+    "tags": [
+      "top-rated"
+    ],
+    "featured": false,
+    "image": "https://m.media-amazon.com/images/I/71Y+R6N+-fL._SX522_.jpg"
+  },
+  {
+    "name": "Golf Club Iron Set",
+    "category": "Sports & Outdoors",
+    "brand": "Callaway",
+    "price": 663.81,
+    "stock": 154,
+    "description": "Affordable and reliable golf club iron set, a top pick in Sports & Outdoors.",
+    "tags": [
+      "editor-pick"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1535136113945-86640c4961d1?w=600&q=80"
+  },
+  {
+    "name": "Car Vacuum Cleaner Portable",
+    "category": "Automotive & Industrial",
+    "brand": "Black+Decker",
+    "price": 356.07,
+    "stock": 171,
+    "description": "Black+Decker's car vacuum cleaner portable offers great performance and lasting durability.",
+    "tags": [
+      "top-rated",
+      "premium"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1558317374-067fb5f30001?w=600&q=80"
+  },
+  {
+    "name": "Wireless Mouse Ergo",
+    "category": "Electronics",
+    "brand": "Anker",
+    "price": 33.99,
+    "stock": 100,
+    "description": "Affordable and reliable wireless mouse ergo, a top pick in Electronics.",
+    "tags": [
+      "value-pick",
+      "best-seller"
+    ],
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=600&q=80"
+  },
+  {
+    "name": "Leather Ankle Boots",
+    "category": "Apparel",
+    "brand": "Puma",
+    "price": 171.73,
+    "stock": 66,
+    "description": "Customer-favorite leather ankle boots built with premium materials by Puma.",
+    "tags": [
+      "eco-friendly"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1520639888713-7851133b1ed0?w=600&q=80"
+  },
+  {
+    "name": "Ceramic Dinnerware Set 16pc",
+    "category": "Home & Kitchen",
+    "brand": "Philips",
+    "price": 257.64,
+    "stock": 107,
+    "description": "High-quality ceramic dinnerware set 16pc from Philips, designed for everyday reliability.",
+    "tags": [
+      "trending"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1617042578500-111db42daec1?w=600&q=80"
+  },
+  {
+    "name": "Matte Lipstick Set",
+    "category": "Beauty & Personal Care",
+    "brand": "Neutrogena",
+    "price": 588.62,
+    "stock": 199,
+    "description": "Neutrogena's matte lipstick set offers great performance and lasting durability.",
+    "tags": [
+      "best-seller",
+      "value-pick"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=600&q=80"
+  },
+  {
+    "name": "Essential Oil Diffuser",
+    "category": "Health & Wellness",
+    "brand": "Optimum Nutrition",
+    "price": 145.61,
+    "stock": 32,
+    "description": "Optimum Nutrition's essential oil diffuser offers great performance and lasting durability.",
+    "tags": [
+      "trending"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1608528577386-09252c41ad6e?w=600&q=80"
+  },
+  {
+    "name": "Cold Pressed Coconut Oil 1L",
+    "category": "Groceries & Food",
+    "brand": "Britannia",
+    "price": 238.05,
+    "stock": 94,
+    "description": "High-quality cold pressed coconut oil 1l from Britannia, designed for everyday reliability.",
+    "tags": [
+      "value-pick"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1611078518925-5f99fa4bd804?w=600&q=80"
+  },
+  {
+    "name": "Self-Help Motivational Book",
+    "category": "Books, Media & Stationery",
+    "brand": "Moleskine",
+    "price": 106.2,
+    "stock": 6,
+    "description": "Affordable and reliable self-help motivational book, a top pick in Books, Media & Stationery.",
+    "tags": [
+      "value-pick"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=600&q=80"
+  },
+  {
+    "name": "Soft Baby Blanket Organic Cotton",
+    "category": "Toys, Kids & Baby Products",
+    "brand": "Hasbro",
+    "price": 186.5,
+    "stock": 151,
+    "description": "Customer-favorite soft baby blanket organic cotton built with premium materials by Hasbro.",
+    "tags": [
+      "new-arrival",
+      "trending"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1623192257321-df19de8d98d8?w=600&q=80"
+  },
+  {
+    "name": "Camping Tent 4-Person",
+    "category": "Sports & Outdoors",
+    "brand": "Columbia",
+    "price": 718.63,
+    "stock": 144,
+    "description": "Customer-favorite camping tent 4-person built with premium materials by Columbia.",
+    "tags": [
+      "eco-friendly"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504280390227-331ef298d593?w=600&q=80"
+  },
+  {
+    "name": "Jump Starter Battery Pack",
+    "category": "Automotive & Industrial",
+    "brand": "3M",
+    "price": 586.3,
+    "stock": 3,
+    "description": "Customer-favorite jump starter battery pack built with premium materials by 3M.",
+    "tags": [
+      "editor-pick"
+    ],
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1563804825996-52cbfebfe095?w=600&q=80"
+  },
+  {
+    "name": "Digital Camera Mirrorless",
+    "category": "Electronics",
+    "brand": "HP",
+    "price": 146.15,
+    "stock": 45,
+    "description": "Affordable and reliable digital camera mirrorless, a top pick in Electronics.",
+    "tags": [
+      "clearance",
+      "limited-stock"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=600&q=80"
+  },
+  {
+    "name": "Classic Polo Shirt",
+    "category": "Apparel",
+    "brand": "Reebok",
+    "price": 744.89,
+    "stock": 151,
+    "description": "High-quality classic polo shirt from Reebok, designed for everyday reliability.",
+    "tags": [
+      "eco-friendly"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1596755094514-04664a7c0678?w=600&q=80"
+  },
+  {
+    "name": "Standing Desk Adjustable",
+    "category": "Home & Kitchen",
+    "brand": "Dyson",
+    "price": 227.03,
+    "stock": 118,
+    "description": "Affordable and reliable standing desk adjustable, a top pick in Home & Kitchen.",
+    "tags": [
+      "value-pick",
+      "top-rated"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1595515106969-1ce29566ff1c?w=600&q=80"
+  },
+  {
+    "name": "Electric Hair Straightener",
+    "category": "Beauty & Personal Care",
+    "brand": "Neutrogena",
+    "price": 443.91,
+    "stock": 90,
+    "description": "Customer-favorite electric hair straightener built with premium materials by Neutrogena.",
+    "tags": [
+      "eco-friendly"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1558002038-109177381792?w=600&q=80"
+  },
+  {
+    "name": "Whey Protein Powder 2kg",
+    "category": "Health & Wellness",
+    "brand": "MyProtein",
+    "price": 469.79,
+    "stock": 48,
+    "description": "Affordable and reliable whey protein powder 2kg, a top pick in Health & Wellness.",
+    "tags": [
+      "new-arrival"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1579722820308-d74e571900a9?w=600&q=80"
+  },
+  {
+    "name": "Dark Chocolate Bar Pack",
+    "category": "Groceries & Food",
+    "brand": "Amul",
+    "price": 624.63,
+    "stock": 165,
+    "description": "High-quality dark chocolate bar pack from Amul, designed for everyday reliability.",
+    "tags": [
+      "editor-pick",
+      "value-pick"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1605342416075-8eb4793f18e1?w=600&q=80"
+  },
+  {
+    "name": "Colored Pencils Set 24pc",
+    "category": "Books, Media & Stationery",
+    "brand": "Faber-Castell",
+    "price": 369.91,
+    "stock": 62,
+    "description": "Customer-favorite colored pencils set 24pc built with premium materials by Faber-Castell.",
+    "tags": [
+      "value-pick"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=600&q=80"
+  },
+  {
+    "name": "Soft Baby Blanket Organic Cotton X",
+    "category": "Toys, Kids & Baby Products",
+    "brand": "Hasbro",
+    "price": 304.39,
+    "stock": 179,
+    "description": "Hasbro's soft baby blanket organic cotton x offers great performance and lasting durability.",
+    "tags": [
+      "limited-stock"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1605417036662-7a72d4c062ce?w=600&q=80"
+  },
+  {
+    "name": "Golf Club Iron Set",
+    "category": "Sports & Outdoors",
+    "brand": "Decathlon",
+    "price": 181.39,
+    "stock": 30,
+    "description": "Affordable and reliable golf club iron set, a top pick in Sports & Outdoors.",
+    "tags": [
+      "clearance",
+      "premium"
+    ],
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1535136113945-86640c4961d1?w=600&q=80"
+  },
+  {
+    "name": "Car Interior Cleaner Kit",
+    "category": "Automotive & Industrial",
+    "brand": "Philips",
+    "price": 534.72,
+    "stock": 194,
+    "description": "Philips's car interior cleaner kit offers great performance and lasting durability.",
+    "tags": [
+      "value-pick",
+      "limited-stock"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1601362840469-51e4d8d58785?w=600&q=80"
+  },
+  {
+    "name": "Laptop UltraBook 14",
+    "category": "Electronics",
+    "brand": "Bose",
+    "price": 331.17,
+    "stock": 77,
+    "description": "High-quality laptop ultrabook 14 from Bose, designed for everyday reliability.",
+    "tags": [
+      "clearance"
+    ],
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=600&q=80"
+  },
+  {
+    "name": "Athletic Training Shorts Plus",
+    "category": "Apparel",
+    "brand": "Nike",
+    "price": 630.69,
+    "stock": 32,
+    "description": "Customer-favorite athletic training shorts plus built with premium materials by Nike.",
+    "tags": [
+      "editor-pick",
+      "trending"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1584865288642-42078afe6942?w=600&q=80"
+  },
+  {
+    "name": "Standing Desk Adjustable",
+    "category": "Home & Kitchen",
+    "brand": "Tefal",
+    "price": 402.01,
+    "stock": 47,
+    "description": "Affordable and reliable standing desk adjustable, a top pick in Home & Kitchen.",
+    "tags": [
+      "limited-stock"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1628624747186-a941c476b7ef?w=600&q=80"
+  },
+  {
+    "name": "Vitamin C Face Cream",
+    "category": "Beauty & Personal Care",
+    "brand": "Nivea",
+    "price": 366.62,
+    "stock": 18,
+    "description": "Customer-favorite vitamin c face cream built with premium materials by Nivea.",
+    "tags": [
+      "best-seller",
+      "premium"
+    ],
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1615397323282-511bb746a512?w=600&q=80"
+  },
+  {
+    "name": "Multivitamin Tablets 90ct",
+    "category": "Health & Wellness",
+    "brand": "Fitbit",
+    "price": 115.41,
+    "stock": 195,
+    "description": "Fitbit's multivitamin tablets 90ct offers great performance and lasting durability.",
+    "tags": [
+      "value-pick"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=600&q=80"
+  },
+  {
+    "name": "Herbal Green Tea Box",
+    "category": "Groceries & Food",
+    "brand": "Amul",
+    "price": 410.95,
+    "stock": 113,
+    "description": "Customer-favorite herbal green tea box built with premium materials by Amul.",
+    "tags": [
+      "value-pick"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1576092762791-dd9e2220afa1?w=600&q=80"
+  },
+  {
+    "name": "Highlighter Marker Set V2",
+    "category": "Books, Media & Stationery",
+    "brand": "Classmate",
+    "price": 552.56,
+    "stock": 189,
+    "description": "Customer-favorite highlighter marker set v2 built with premium materials by Classmate.",
+    "tags": [
+      "new-arrival"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1589330694653-def6bf2f5b5b?w=600&q=80"
+  },
+  {
+    "name": "Plush Teddy Bear Large",
+    "category": "Toys, Kids & Baby Products",
+    "brand": "Fisher-Price",
+    "price": 223.47,
+    "stock": 141,
+    "description": "Affordable and reliable plush teddy bear large, a top pick in Toys, Kids & Baby Products.",
+    "tags": [
+      "premium"
+    ],
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1559454403-b8fb88521f11?w=600&q=80"
+  },
+  {
+    "name": "Cricket Bat Kashmir Willow",
+    "category": "Sports & Outdoors",
+    "brand": "Columbia",
+    "price": 269.21,
+    "stock": 59,
+    "description": "Affordable and reliable cricket bat kashmir willow, a top pick in Sports & Outdoors.",
+    "tags": [
+      "limited-stock"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1531415074968-036ba1b575da?w=600&q=80"
+  },
+  {
+    "name": "Tool Set 100pc",
+    "category": "Automotive & Industrial",
+    "brand": "3M",
+    "price": 217.74,
+    "stock": 67,
+    "description": "3M's tool set 100pc offers great performance and lasting durability.",
+    "tags": [
+      "value-pick",
+      "new-arrival"
+    ],
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1581147036324-c178233fa43e?w=600&q=80"
+  }
+]
